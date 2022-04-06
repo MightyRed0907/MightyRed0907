@@ -17,6 +17,8 @@ I have developed some games for varios platforms.
 My email: oohs.0907@gmail.com
 
 Skype: live:.cid.17870992cb2c45b5
+
+Telegram: https://t.me/secret_topdev
 <!---
 MightyRed0907/MightyRed0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
