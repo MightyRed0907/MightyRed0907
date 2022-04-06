@@ -7,10 +7,10 @@ Hi,👋 I’m @MightyRed0907.
 I am a senior game developer who has 10+ years hisotry.
 I have developed some games for varios platforms.
 * PC & Console & Mobile
-* C++ & Blueprint
+* C++ & C# & Lua
 * Single, Muliplayer and Online Game
 * Action, Adventure, Casual, First Persion, Third Persion, Platformer, RPG, Surival, Shooting
-* Playfab & AWS & Steam - Deploying and Integration
+* Game Backend Platforms and Distribution Services
 
 ***📫 How to reach me ...***
 
