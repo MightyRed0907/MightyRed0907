@@ -3,8 +3,7 @@
 - Unity
 - Roblox
 
-Hi,👋 I’m @MightyRed0907.
-I am a game developer who has 7 years of experience using Unity and the Unreal Engine.
+Hi,👋 I am a game developer who has 7 years of experience using Unity and the Unreal Engine.
 I 
 * PC & Console & Mobile
 * Single, Muliplayer and Online Game
