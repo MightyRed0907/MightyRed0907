@@ -12,7 +12,7 @@ I
 
 ***📫 How to reach me ...***
 
-My email: prideofguardian0607@gmail.com
+My email: prideofguardian0607@gmail.com oohs.0907@gmail.com
 
 Skype: live:.cid.79df4b823f1ab289
 
